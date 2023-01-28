@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    grid-area: haeder;
+}
+.body{grid-area: body;}
+.footer{
+    grid-area: haeder;
+}
